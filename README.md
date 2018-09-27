@@ -1,8 +1,8 @@
 #**Traffic Sign Recognition**
 
 Download the models here and copy to main folder:
-augmented.p https://goo.gl/jEgsrN
-preprocessed.p https://goo.gl/GspE6C
+* augmented.p https://goo.gl/jEgsrN
+* preprocessed.p https://goo.gl/GspE6C
 
 **Build a Traffic Sign Recognition Project**
 
